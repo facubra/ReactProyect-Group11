@@ -1,0 +1,58 @@
+[
+    {
+        "nombrePelicula": "DUNE",
+        "img": "../img/dune.jpg",
+        "directorPelicula": "Director: Denis Villeneuve",
+        "repartoPelicula": "Reparto: Timothée Chalamet, Rebecca Ferguson, Oscar Isaac, Josh Brolin, Jason Momoa, Stellan Skarsgård, Zendaya, Javier Bardem, Sharon Duncan-Brewster, Charlotte Rampling, Chang Chen, Stephen Henderson, DaveBautista, Babs Olusanmokun, David Dastmalchian, Golda Rosheuvel, Benjamin Clémentine, Souad Faress",
+        "generoPelicula": "Genero: Ciencia ficcion",
+        "duracionPelicula": "Duracion: 2h 35m",
+        "clasificacionPelicula": "Clasificacion: PG-13",
+        "sinopsisPelicula": "Sinopsis: En el Año 10191 el desértico planeta Arrakis, feudo de la familia Harkonnen desde hace generaciones, queda en manos de la Casa de los Atreides por orden del emperador. Con ello les cede la explotación de las reservas de especia, la materia prima más valiosa de la galaxia, necesaria para los viajes interestelares y también una droga capaz de amplificar la conciencia y extender la vida. El duque Leto (Oscar Isaac), la dama Jessica (Rebecca Ferguson) y el hijo de ambos, Paul Atreides (Timothée Chalamet), llegan a Arrakis con la esperanza de mantener el buen nombre de su casa y ser fieles al emperador, pero pronto se verán envueltos en una trama de traiciones y engaños que les llevará a cuestionar su confianza entre sus más allegados y a valorar a los lugareños, los Fremen, una estirpe de habitantes del desierto con una estrecha relación con la especia.",
+        "linkPelicula": "https://www.youtube.com/embed/TTgk_iT8Uts"
+    },
+    {
+        "nombrePelicula": "GODZILLA VS KONG",
+        "img": "../img/gvk.jpg",
+        "directorPelicula": "Director: Adam Wingard",
+        "repartoPelicula": "Reparto: Alexander Skarsgård, Rebecca Hall, Demian Bichir, Millie Bobby Brown, Eiza González, ShunOguri, Kyle Chandler, Kaylee Hottle, Julian Dennison, Van Marten, Jessica Henwick, Lance Reddick, Brian Tyree Henry, Ronny Chieng, Hakeem Kae-Kazim, John Pirruccello, Chris Chalk",
+        "generoPelicula": "Genero: Accion - Fantasia",
+        "duracionPelicula": "1h 53m",
+        "clasificacionPelicula": "Clasificacion: PG-13",
+        "sinopsisPelicula": "Sinopsis: Godzilla y Kong, dos de las fuerzas más poderosas de un planeta habitado por todo tipo de aterradoras criaturas, se enfrentan en un espectacular combate que sacude los cimientos de la humanidad. Kong y sus protectores emprenderán un peligroso viaje para encontrar su verdadero hogar. Con ellos está Jia, una joven huérfana con la que el gigante tiene un vínculo único y poderoso. En el camino se cruzan inesperadamente con el de un Godzilla enfurecido que va causando destrucción a su paso por el mundo. El choque épico entre los dos titanes -provocado por fuerzas invisibles- es solo el comienzo del misterio que se esconde en las profundidades del núcleo de la Tierra.",
+        "linkPelicula": "https://www.youtube.com/embed/Kqg8zLgESyQ"
+    },
+    {
+        "nombrePelicula": "LAST NIGHT IN SOHO",
+        "img": "../img/lastnight.jpg",
+        "directorPelicula": "Director: Edgar Wright",
+        "repartoPelicula": "Reparto: Thomasin McKenzie, Anya Taylor-Joy, Matt Smith, Terence Stamp, Diana Rigg, Rita Tushingham, Sam Claflin, Synnove Karlsen, Andrew Bicknell, Colin Mace, Michael Ajao, Will Rogers, Lisa McGrillis, James Phelps, Oliver Phelps, Jessie Mei Li, Michael Jibson, Connor Calland, Aimee Cassettari, Kassius Nelson, Rebecca Harrod, Alan Mahon, Josh Zaré, Pauline McLynn, Elizabeth Berrington, Paul Brightwell, Celeste Dring",
+        "generoPelicula": "Genero: Thriller - Terror - Fantástico",
+        "duracionPelicula": "Duracion: 1h 56m",
+        "clasificacionPelicula": "Clasificacion: R",
+        "sinopsisPelicula": "Sinopsis: Thriller psicológico sobre una joven apasionada por la moda que, misteriosamente, es capaz de trasladarse a los años 60 y conocer a su ídolo, una deslumbrante aspirante a cantante. Pero el Londres de la época no es lo que parece y el tiempo parece desmoronarse con oscuras consecuencias...",
+        "linkPelicula": "https://www.youtube.com/embed/CGjdD4wBqlg"
+ 
+    },
+    {
+        "nombrePelicula": "MASSIVE TALENT",
+        "img": "../img/mtalent.jpg",
+        "directorPelicula": "Director: Tom Gormican",
+        "repartoPelicula": "Reparto: Nicolas Cage, Pedro Pascal, Tiffany Haddish, Sharon Horgan, Jacob Scipio, Neil Patrick Harris, Alessandra Mastronardi, Paco León, Lily Mo Sheen, Nick Wittman, Caroline Boulton, Christine Grace Szarko, Ricard Balada, Ike Barinholtz, Rebecca Finch, Joanna Bobin. Cameo: Demi Moore",
+        "generoPelicula": "Genero: Accion - Comedia",
+        "duracionPelicula": "Duracion: 1h 46m",
+        "clasificacionPelicula": "Clasificacion: R",
+        "sinopsisPelicula": " Sinopsis: Nicolas Cage se interpreta a sí mismo en esta loca comedia de acción. La versión ficticia de Cage es un actor sin blanca que se ve obligado a aceptar una oferta de un millón de dólares para asistir al cumpleaños de un superfan excéntrico multimillonario (Pedro Pascal). Pero la situación da un giro inesperado cuando Cage es reclutado por una agente de la CIA (Tiffany Haddish) y obligado a estar a la altura de su propia leyenda para salvarse a sí mismo y a sus seres queridos. Con una carrera construida para este preciso momento, el actor ganador de premios debe asumir el papel de su vida: Nick Cage.",
+        "linkPelicula": "https://www.youtube.com/embed/daYhTP8IrBQ"
+    },
+    {
+        "nombrePelicula": "SUICIDE SQUAD",
+        "img": "../img/suicide.jpg",
+        "directorPelicula": " Director: James Gunn",
+        "repartoPelicula": "Reparto: Idris Elba, Margot Robbie, Joel Kinnaman, Viola Davis, Daniela Melchior, David Dastmalchian, John Cena, Alice Braga, Peter Capaldi, Jai Courtney, Joaquín Cosío, Nathan Fillion, Mayling Ng, Flula Borg, Sean Gunn, Juan Diego Botto, Storm Reid, Pete Davidson, Taika Waititi, Steve Agee, Jennifer Holland, Michael Rooker, Sylvester Stallone",
+        "generoPelicula": "Accion-Fantastico",
+        "duracionPelicula": "Duracion: 2h 12m",
+        "clasificacionPelicula": "Clasificacion: R ",
+        "sinopsisPelicula": "Sinopsis: Un grupo de super villanos se encuentran encerrados en Belle Reve, una prisión de alta seguridad con la tasa de mortalidad más alta de Estados Unidos. Para salir de allí harán cualquier cosa, incluso unirse al grupo Task Force X, dedicado a llevar a cabo misiones suicidas bajo las órdenes de Amanda Waller. Fuertemente armados son enviados a la isla Corto Maltese, una jungla repleta de enemigos.",
+        "linkPelicula": "https://www.youtube.com/embed/eg5ciqQzmK0"
+    }
+]
